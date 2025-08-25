@@ -4,6 +4,10 @@
 // Author shuuhei Ida
 //
 //==========================
+
+//=====================
+//
+//
 #include"main.h"
 #include"bg.h"
 
